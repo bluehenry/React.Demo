@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "label": "Home" 
+    },
+    {
+        "id": 2,
+        "label": "Masterdata" 
+    },
+    {
+        "id": 3,
+        "label": "Users" 
+    },
+    {
+        "id": 4,
+        "label": "Scenarios" 
+    },
+    {
+        "id": 5,
+        "label": "Models" 
+    },
+    {
+        "id": 6,
+        "label": "Configuration" 
+    },
+    {
+        "id": 7,
+        "label": "Report" 
+    },
+    {
+        "id": 8,
+        "label": "Trends" 
+    }
+]
