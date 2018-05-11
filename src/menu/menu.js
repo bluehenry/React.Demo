@@ -13,21 +13,18 @@ class Menu extends Component {
     render() {
        return (
             <div>
-                <div className="flex-container">
-                    <div className="order-12">1</div>
-                    <div className="order-12">2</div>
-                    <div className="order-12">3</div>
-                </div>
-                <div class="d-flex flex-row bd-highlight mb-3">
-  <div class="p-2 bd-highlight">Flex item 1</div>
-  <div class="p-2 bd-highlight">Flex item 2</div>
-  <div class="p-2 bd-highlight">Flex item 3</div>
-</div>
-<div class="d-flex flex-row-reverse bd-highlight">
-  <div class="p-2 bd-highlight">Flex item 1</div>
-  <div class="p-2 bd-highlight">Flex item 2</div>
-  <div class="p-2 bd-highlight">Flex item 3</div>
-</div>
+              <div className="flex-container">
+                <div class="card">Flex item 1</div>
+                <div class="card">Flex item 2</div>
+                <div class="card">Flex item 3</div>
+                <div class="card">Flex item 4</div>
+                <div class="card">Flex item 5</div>
+                <div class="card">Flex item 6</div>
+                <div class="card">Flex item 7</div>
+                <div class="card">Flex item 8</div>
+                <div class="card">Flex item 9</div>
+                <div class="card">Flex item 10</div>
+             </div>
             </div>            
         );
     }

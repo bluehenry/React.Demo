@@ -1,12 +1,16 @@
 .flex-container {
-    display: flex;
-    background-color: DodgerBlue;
-  }
+  display: flex;
+  background-color: #436D9B;
+  margin: 0;
+  padding: 0;
+}
   
-  .flex-container > div {
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 20px;
-    font-size: 30px;
-  }
+.card {
+  display: inline-block;
+  border-style: 1px solid #B6DEFA;
+  background-color: #436D9B;
+  height: 5rem;
+  width: 10%;
+  text-align: center;
+}
 
