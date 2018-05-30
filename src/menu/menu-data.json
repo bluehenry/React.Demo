@@ -1,0 +1,42 @@
+[
+    {
+        "key": 1,
+        "label": "Calendar",
+        "icon": "fa-calendar" 
+    },
+    {
+        "key": 2,
+        "label": "MasterData",
+        "icon": "fa-database"
+    },
+    {
+        "key": 3,
+        "label": "Users", 
+        "icon": "fa-user"
+    },
+    {
+        "key": 4,
+        "label": "Scenarios", 
+        "icon": "fa-pencil-alt"
+    },
+    {
+        "key": 5,
+        "label": "Models",
+        "icon": "fa-sitemap" 
+    },
+    {
+        "key": 6,
+        "label": "Configuration", 
+        "icon": "fa-wrench"
+    },
+    {
+        "key": 7,
+        "label": "Reports", 
+        "icon": "fa-chart-bar"
+    },
+    {
+        "key": 8,
+        "label": "Trends",
+        "icon": "fa-chart-line" 
+    }
+]
