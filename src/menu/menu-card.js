@@ -8,7 +8,7 @@ class MenuCard extends Component {
             return (
                 <div className="card" key={i}>
                     {menu.label}
-                    <div><i className={`fas ${menu.icon} fa-3x`}></i></div>
+                    <div className="card-icon"><i className={`fas ${menu.icon} fa-3x`}></i></div>
                 </div>
             )
         });
