@@ -11,6 +11,9 @@ You can find the most recent version of this guide [here](https://github.com/fac
 # React Tips
 ## Deployment to GitHub Page
 Check Deployment > GitHub Pages in [facebook/create-react-app](https://github.com/facebook/create-react-app) 
+```javascript
+npm run deploy
+```
 
 ## Loading a json file
 Loading a json file is quite simple and straightforward. The only thing you need to do is import the file, like this:
