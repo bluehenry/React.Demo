@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from '../header/header';
 import Menu from '../menu/menu';
+import Chart from '../chart/chart';
 
 class App extends Component {
   render() {
@@ -9,6 +10,7 @@ class App extends Component {
       <div>
         <Header />
         <Menu />
+        <Chart />
       </div>
     );
   }

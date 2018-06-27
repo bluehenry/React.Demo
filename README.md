@@ -6,6 +6,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 # Libraries 
 * Bootstrap
 * Font Awesome
+* Highchart and highcharts-react
 
 # React Tips
 ## Deployment to GitHub Page

@@ -1,19 +1,22 @@
 .flex-container {
   display: flex;
-  background-color: #436D9B;
   margin: 0;
   padding: 0;
 }
   
 .card {
   display: inline-block;
-  border-style: 1px solid;
-  background-color: #436D9B; 
-  color: #15A5FA;;
-  height: 5rem;
-  width: 12.5%;
   text-align: center;
+  height: 5rem;
+  width: 12.5%;  
+  background-color: #436D9B; 
+  color: #2786DA;  
+  border-color: #2B4059;
 }
+
+.card:hover {
+  background-color: #2B4059; 
+} 
 
 .card-icon {
   color: #B6DEFA;
